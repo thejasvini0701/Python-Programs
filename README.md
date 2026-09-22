@@ -1,7 +1,7 @@
 # Python-Programs
 A collection of my daily Python practice and programming exercises.
 
-# 1 – Python Fundamentals Practice
+## 1 – Python Fundamentals Practice
 
 - Variables and Data Types
 - Input and Output
@@ -13,7 +13,7 @@ A collection of my daily Python practice and programming exercises.
 - if, elif, and else
 - Simple Python Programs
 
-# 2 – Strings, Lists & Functions Practice
+## 2 – Strings, Lists & Functions Practice
 
 - Variables
 - Strings and Concatenation
