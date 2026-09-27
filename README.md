@@ -29,4 +29,23 @@ A collection of my daily Python practice and programming exercises.
 - Vowels
 - Prime Numbers
 
+## 3 – Loops, Numbers & Problem Solving Practice
+
+- For Loops
+- While Loops
+- Positive, Negative and Zero
+- Even Numbers
+- Finding the Largest Number
+- Leap Year
+- Lists and Filtering
+- Prime Numbers
+- Fibonacci Sequence
+- Multiplication Tables
+- Factorial
+- Sum of Digits
+- Counting Words
+- Basic Problem Solving
+
+
+
 
