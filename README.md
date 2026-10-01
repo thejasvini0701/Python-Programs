@@ -46,7 +46,7 @@ A collection of my daily Python practice and programming exercises.
 - Counting Words
 - Basic Problem Solving
 
-# 4- Functions
+## 4- Functions
 
 - Creating and using functions
 - Function parameters and return values
