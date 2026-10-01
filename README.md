@@ -46,6 +46,25 @@ A collection of my daily Python practice and programming exercises.
 - Counting Words
 - Basic Problem Solving
 
+# 4- Functions
+
+- Creating and using functions
+- Function parameters and return values
+- Area of a circle using a function
+- Checking whether a number is prime
+- Reversing a string
+- Finding the sum of positive numbers in a list
+- Checking whether a string is a palindrome
+- Finding factorial using recursion
+- Finding the square of each element in a list
+- Checking whether a number is even or odd
+- Calculating the area of a triangle
+- Sorting a list of strings alphabetically
+- Finding common elements between two lists
+- Checking whether a year is a leap year
+- Generating a multiplication table using a function
+
+
 
 
 
