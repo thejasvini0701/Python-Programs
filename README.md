@@ -1,7 +1,7 @@
 # Python-Programs
 A collection of my daily Python practice and programming exercises.
 
-## 1 – Python Fundamentals Practice
+## 1 
 
 - Variables and Data Types
 - Input and Output
@@ -13,7 +13,7 @@ A collection of my daily Python practice and programming exercises.
 - if, elif, and else
 - Simple Python Programs
 
-## 2 – Strings, Lists & Functions Practice
+## 2
 
 - Variables
 - Strings and Concatenation
@@ -29,7 +29,7 @@ A collection of my daily Python practice and programming exercises.
 - Vowels
 - Prime Numbers
 
-## 3 – Loops, Numbers & Problem Solving Practice
+## 3 
 
 - For Loops
 - While Loops
@@ -46,7 +46,7 @@ A collection of my daily Python practice and programming exercises.
 - Counting Words
 - Basic Problem Solving
 
-## 4- Functions
+## 4
 
 - Creating and using functions
 - Function parameters and return values
@@ -63,6 +63,23 @@ A collection of my daily Python practice and programming exercises.
 - Finding common elements between two lists
 - Checking whether a year is a leap year
 - Generating a multiplication table using a function
+
+## 5
+
+* Counting vowels
+* Joining words into a string
+* Counting words in a sentence
+* Pangram checking
+* Removing vowels
+* Finding the longest word
+* Reversing a sentence
+* Counting names starting with vowels
+* Removing duplicate characters
+* Searching for a word in a sentence
+* Functions
+* String methods
+* Lists and indexing
+* Loops and conditional statements
 
 
 
